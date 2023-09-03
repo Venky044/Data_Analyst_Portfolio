@@ -15,7 +15,7 @@ Welcome to my Data Analyst portfolio! This repository showcases my skills throug
    Engage with interactive visualizations created using the London bike sharing dataset. Gain a clear perspective on usage patterns and urban transportation trends.  
    - Highlights: Visualized bike usage by time, weather impact on rentals, and peak usage hours.
 
-**Tools & Technologies**: Python, Jupyter Notebook, Pandas, Matplotlib, Seaborn, SQL
+**Tools & Technologies**: Python, Jupyter Notebook, Pandas, Matplotlib, Seaborn
 
 **Data Sources**: Kaggle
 
