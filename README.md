@@ -8,8 +8,9 @@ Welcome to my Data Analyst portfolio! This repository showcases my skills throug
    FIFA 21 is a popular video game that simulates soccer matches. Often, data collected from this game might be messy, containing inconsistencies, missing values, and various formatting issues.
    - Highlights:
      - In this project, I focused on cleaning and preparing messi FIFA 21 data for analysis using Python and Pandas.
-     - Cleaned and standardized player data, discovered performance trends, and created visualizations using **Power BI**.
-     - https://github.com/Venky044/Data_Analyst_Portfolio/assets/115688026/6d12a3bf-104d-4b43-8310-4da827087839
+     - Cleaned and standardized player data, discovered performance trends, and created Dashboard using **Power BI**.
+
+     https://github.com/Venky044/Data_Analyst_Portfolio/assets/115688026/6d12a3bf-104d-4b43-8310-4da827087839
 
 3. **Project 2: Data Analysis (P_2)**  
    Explore in-depth insights from the Stack Overflow Annual Developer Survey 2022 data. Discover trends, preferences, and valuable insights within the developer community.  
