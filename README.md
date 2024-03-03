@@ -6,9 +6,9 @@ Welcome to my Data Analyst portfolio! This repository showcases my skills throug
 1. **Project 1: Data Cleaning & Transformation (P_1)**  
    Dive into a comprehensive data cleaning and transformation project that takes a messy FIFA 21 dataset and turns it into a structured, insightful resource.
    FIFA 21 is a popular video game that simulates soccer matches. Often, data collected from this game might be messy, containing inconsistencies, missing values, and various formatting issues.
-   Highlights:
-   - In this project, I focused on cleaning and preparing messi FIFA 21 data for analysis using Python and Pandas.
-   - Cleaned and standardized player data, discovered performance trends, and created visualizations using **Power BI**.
+   - Highlights:
+     - In this project, I focused on cleaning and preparing messi FIFA 21 data for analysis using Python and Pandas.
+     - Cleaned and standardized player data, discovered performance trends, and created visualizations using **Power BI**.
 
 3. **Project 2: Data Analysis (P_2)**  
    Explore in-depth insights from the Stack Overflow Annual Developer Survey 2022 data. Discover trends, preferences, and valuable insights within the developer community.  
@@ -18,7 +18,7 @@ Welcome to my Data Analyst portfolio! This repository showcases my skills throug
    Engage with interactive visualizations created using the London bike sharing dataset. Gain a clear perspective on usage patterns and urban transportation trends.  
    - Highlights: Visualized bike usage by time, weather impact on rentals, and peak usage hours.
 
-**Tools & Technologies**: Python, Jupyter Notebook, Pandas, Matplotlib, Seaborn
+**Tools & Technologies**: Python, Jupyter Notebook, Pandas, Matplotlib, Seaborn, Power BI
 
 **Data Sources**: Kaggle
 
