@@ -8,6 +8,9 @@
 - [London Bike Sharing Data Analysis & Visualization](#project-3)
 - [Tools & Technologies](#tools-technologies)
 - [Data Sources](#data-sources)
+  
+- Additional Power BI Projects
+  - [Maven Market Data Analyst Project](https://github.com/Venky044/Maven-Market-Power-BI-Data-Analysis)
 
 ## Introduction
 <a id="introduction"></a>
