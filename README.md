@@ -75,4 +75,6 @@ The projects in this repository were developed using Python, Jupyter Notebook, P
 <a id="data-sources"></a>
 The data used in these projects was sourced from **Kaggle**
 
+If you're interested in exploring more of my work, don't forget to check out my other projects, including additional Power BI projects, listed above.
+
 Feel free to explore these projects and reach out if you have any questions or collaboration opportunities.
