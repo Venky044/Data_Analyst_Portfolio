@@ -11,6 +11,9 @@
   
 - Additional Power BI Projects
   - [Maven Market Data Analyst Project](https://github.com/Venky044/Maven-Market-Power-BI-Data-Analysis)
+ 
+- Additional SQL Projects
+  - [SQL Murder Mystery](https://github.com/Venky044/SQL-Murder-Mystery)
 
 ## Introduction
 <a id="introduction"></a>
